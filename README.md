@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" rel="sentry.io">
+ <img width=718px height=250px src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" alt="Project logo"></a>
+</p>
+
 # Self-Hosted Sentry
 
 Running your own <a href="https://sentry.io">Sentry</a> with <a href="https://docker.io">Docker</a>.
@@ -12,7 +17,7 @@ Running your own <a href="https://sentry.io">Sentry</a> with <a href="https://do
 
 ## Installation
 
-Clone the repository (if you want) and run the script in the <a href="https://github.com/franchialan/sentry/install">"install"</a> folder.
+Clone the repository (if you want) and run the script in the <a href="https://github.com/franchialan/sentry/tree/main/install">"install"</a> folder.
 
 
 ## Official Installation
